@@ -60,9 +60,6 @@ Config Search Tool is a comprehensive utility designed for engineers and technic
 # Clone the repository
 git clone https://github.com/yourusername/config-search-tool.git
 cd config-search-tool
-
-# Run the installer
-sudo bash scripts/install.sh
 ```
 
 ### Manual Installation
@@ -180,7 +177,6 @@ config-search-tool/
 ├── 🔧 configSearchTool.sh    # Core search script
 ├── 🎨 config_search_ui.py    # PyQt5 GUI application
 └── 📂 scripts/
-    ├── 📦 install.sh         # Installation script
     └── 🛠️ setup.sh          # Project setup script
 ```
 
