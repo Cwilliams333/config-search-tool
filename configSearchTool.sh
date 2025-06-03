@@ -68,11 +68,12 @@
 #=======================================================================================================
 
 # Directory options
-DUT_PARAMETERS="/var/db/fusion/test_parameters/test_parameter_configs/dut_parameters"
-DUT_CONFIGURATIONS="/var/db/fusion/dut_configurations"
-LEGACY_PARAMETERS="/etc/brb-mes/_legacy_profiles/core/dut_parameters"
-LEGACY_CONFIGURATIONS="/etc/brb-mes/_legacy_dut_configurations"
-TRADES_PARAMETERS="/etc/brb-mes/_legacy_profiles/trades/dut_parameters"
+DUT_PARAMETERS=
+DUT_CONFIGURATIONS=
+LEGACY_PARAMETERS=
+LEGACY_CONFIGURATIONS=
+TRADES_PARAMETERS=
+
 
 # Color codes
 GREEN='\033[0;32m'
