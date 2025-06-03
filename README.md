@@ -240,7 +240,7 @@ python -m pytest tests/
 ---
 
 <div align="center">
-Made with ❤️ by the Yours Truly (:
+Made with ❤️ by Yours Truly (:
 
-⭐ Star us on GitHub — it helps!
+⭐ Stars help :D
 </div>
